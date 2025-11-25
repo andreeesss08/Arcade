@@ -1,0 +1,5 @@
+{
+  "name": "Juegos para grupos de amigos",
+  "description": "Un juego de deducción social donde los jugadores deben descubrir quién es el impostor entre ellos. Utiliza IA para generar palabras infinitas.",
+  "requestFramePermissions": []
+}
